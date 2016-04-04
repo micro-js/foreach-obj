@@ -6,7 +6,7 @@
 [![NPM version][npm-image]][npm-url]
 [![Code style][standard-image]][standard-url]
 
-Iterate over an object
+Iterate over an object.
 
 ## Installation
 
